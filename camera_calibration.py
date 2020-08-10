@@ -4,6 +4,7 @@ import glob
 import pickle
 
 def main():
+    # TODO: add more comments explaining the functions and returns.
 
     # prepare object points, like (0,0,0), (1,0,0), (2,0,0) ....,(6,5,0)
     objp = np.zeros((12*9,3), np.float32)
